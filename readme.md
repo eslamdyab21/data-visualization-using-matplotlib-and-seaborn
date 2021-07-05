@@ -3,7 +3,7 @@
 ## Dataset
 
 I've choose this dataset for the visualizations Project to communicate data findings. this dataset have records of the passengers who were in the Titanic backthen,like the surviving status, siblings, classes, age, fare....
-it's from kaggle and it's manly for machine learning. but i find it very neat and will be good for the visualizations purpurses of this project as i manged to get intersiting qustions.
+it's from kaggle and it's mainly for machine learning. but i find it very neat and will be good for the visualization purpurses of this project as i manged to get intersiting qustions.
 you can find the dataset here:
 https://www.kaggle.com/c/titanic/data
 
@@ -11,11 +11,11 @@ https://www.kaggle.com/c/titanic/data
 ## Summary of Findings
 
 In the exploration, I found that there was a strong relationship between the
-survivors and its gender, female have more chances of suviving. majority of people didn't survive.
+survivors and their gender, female have more chances of suviving. majority of people didn't survive.
 and most people were between the age of 19 and 35, and yenger people had more chances of surviving.
 
-majority of had low fare low class, and it turned out that the higher the class and the fare, the higher the chances of surviving.
-majority of people traveled without family too, and it turnd out that thoses people had less chances of survivig 
+majority had low fare low class, and it turned out that the higher the class and the fare, the higher the chances of surviving.
+majority of people traveled without family too, and it turnd out that those people had less chance of survivig 
 compared to travellers with family.
 majority of people are with low badjet and with ages between 17 and 32
 
